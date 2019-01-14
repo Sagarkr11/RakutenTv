@@ -1,0 +1,20 @@
+<resources>
+  <string name="app_name">RakutenTv</string>
+  <string name="populares_en_taquilla">populares-en-taquilla</string>
+  <string name="estrenos_para_toda_la_familia">estrenos-para-toda-la-familia</string>
+  <string name="estrenos_imprescindibles_en_taquilla">estrenos-imprescindibles-en-taquilla</string>
+  <string name="estrenos_espanoles">estrenos-espanoles</string>
+  <string name="si_te_perdiste">si-te-perdiste</string>
+  <string name="especial_x_men">especial-x-men</string>
+  <string name="nuestras_preferidas_de_la_semana">nuestras-preferidas-de-la-semana</string>
+  <string-array name="categories">
+    <item>@string/populares_en_taquilla</item>
+    <item>@string/estrenos_para_toda_la_familia</item>
+    <item>@string/estrenos_imprescindibles_en_taquilla</item>
+    <item>@string/estrenos_espanoles</item>
+    <item>@string/si_te_perdiste</item>
+    <item>@string/especial_x_men</item>
+    <item>@string/nuestras_preferidas_de_la_semana</item>
+  </string-array>
+  <string name="year_duration">Release:: %d&#160;&#160;&#160;Duration:: %dmin</string>
+</resources>
